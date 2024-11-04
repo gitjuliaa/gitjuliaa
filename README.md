@@ -20,4 +20,6 @@
 [![gitjuliaa Top Language Data](https://github-readme-stats.vercel.app/api/top-langs/?username=gitjuliaa\&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-dark-mode-only)
 [![gitjuliaa Top Language Data](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_border=true\&hide_title=true\&ring_color=949494\&text_color=000000\&layout=compact\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![gitjuliaa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitjuliaa)](https://github.com/gitjuliaa/github-readme-stats)
+[![gitjuliaa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitjuliaa\&theme=dark#gh-dark-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-dark-mode-only)
+
+[![gitjuliaa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitjuliaa\&theme=default#gh-light-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-light-mode-only)
