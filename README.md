@@ -13,13 +13,12 @@
 
 ---
 ### Statistics
-
+<!-- General Github Stats - Dark mode -->
 [![gitjuliaa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gitjuliaa\&show_icons=true\&rank_icon=percentile\&theme=dark#gh-dark-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-dark-mode-only)
+<!-- General Github Stats - Light Mode -->
 [![gitjuliaa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitjuliaa\&show_icons=true\&text_color=000000\&ring_color=949494\&rank_icon=percentile\&hide_title=true\&hide_border=true\&icon_color=949494\&theme=default#gh-light-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-light-mode-only)
 
-[![gitjuliaa Top Language Data](https://github-readme-stats.vercel.app/api/top-langs/?username=gitjuliaa\&layout=compact\&theme=dark#gh-dark-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-dark-mode-only)
-[![gitjuliaa Top Language Data](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_border=true\&hide_title=true\&ring_color=949494\&text_color=000000\&layout=compact\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+<!-- WakaTime Stats -- Language Time - Dark mode  -->
 [![gitjuliaa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitjuliaa\&theme=dark#gh-dark-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-dark-mode-only)
-
-[![gitjuliaa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitjuliaa\&theme=default#gh-light-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-light-mode-only)
+<!-- WakaTime Stats -- Language Time - Light mode   -->
+[![gitjuliaa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitjuliaa\&text_color=000000\&hide_title=true\&hide_border=true\&theme=default#gh-light-mode-only)](https://github.com/gitjuliaa/github-readme-stats#gh-light-mode-only)
