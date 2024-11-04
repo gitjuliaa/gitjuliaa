@@ -1,4 +1,9 @@
-### Hello there 👋 I run software businessses
 
-#### I am a full-stack Entrepreneur and Youtuber. 
+# Hello there 
 
+ > I am an **Entrepre
+
+> Here is a list of projects below: 
+
+# Digital Craftsman...
+: A 
