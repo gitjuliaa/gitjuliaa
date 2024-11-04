@@ -1,4 +1,4 @@
-### Hello there 👋 I run software businessses
+### Hello there 👋
 
-##I am a ####full-stack Entrepreneur ##and ####Youtuber. 
+####I am an **Entrepreneur** and **Youtuber.**
 
