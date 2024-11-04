@@ -1,7 +1,6 @@
+### Hello there 👋
 
-# Hello there 
-
- > I am an **Entrepre
+I am an **Entrepreneur** and **Youtuber.**
 
 > Here is a list of projects below: 
 
