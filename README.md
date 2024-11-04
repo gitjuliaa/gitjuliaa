@@ -1,8 +1,2 @@
-### Hello there 👋
-
-I am an **Entrepreneur** and **Youtuber.**
-
-> Here is a list of projects below: 
-
-# Digital Craftsman...
-: A 
+# Digital Creator 
+**`Developer/Entrepreneur/Composer`**
