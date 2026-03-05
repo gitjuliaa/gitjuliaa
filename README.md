@@ -4,9 +4,9 @@ I'm a <strong>Digital Developer</strong> at <strong>Hills Grammar</strong> and a
 
 <h3>Current projects</h3>
 <ul>
-<li>I'm currently an IT Director at Women Entering Business MQ.💙</li>
+<li>I'm currently an IT Director at Women Entering Business MQ.</li>
 <li>I'm currently working on building <a href="https://www.womenenteringbusiness.org/">Women Entering Business website</a></li>
-<li>I’m currently working a rhythm training app for deaf students <a href="[https://www.womenenteringbusiness.org/](https://github.com/gitjuliaa/BeatBuddy)">BeatBuddy</a></li>
+<li>I’m currently working a rhythm training app for deaf students -- <a href="https://github.com/gitjuliaa/BeatBuddy">BeatBuddy</a></li>
 <li>I’m currently working on a computer vision project that monitors and verifies WHS compliance of healthcare workers</li>
 </ul>
 
